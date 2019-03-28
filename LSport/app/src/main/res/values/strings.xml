@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LSport</string>
+    <string name="formI">Début Form II</string>
+    <string name="formII">Fin Form II</string>
+</resources>
